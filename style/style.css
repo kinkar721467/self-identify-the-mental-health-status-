@@ -428,7 +428,7 @@ body {
 
 .social-icon a {
     text-decoration:none;
-    color: var(--text-normal-color);
+    color: var(--text-color);
     display: inline-block;
     margin-right: 15px;
     font-size: 30px;
